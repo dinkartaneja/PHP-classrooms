@@ -1,0 +1,3 @@
+This is another line of text
+Java is fantastic
+Java teacher Mr. Mihayi is fantastic

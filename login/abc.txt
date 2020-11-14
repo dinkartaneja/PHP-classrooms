@@ -1,0 +1,4 @@
+dinkar:1234
+tinkal:abc
+
+salazar:locket
